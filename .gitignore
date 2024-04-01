@@ -1,3 +1,9 @@
+# Local draft
+draft*
+*draft*
+**/draft/*
+draft.*
+
 # Local .terraform directories
 **/.terraform/*
 
