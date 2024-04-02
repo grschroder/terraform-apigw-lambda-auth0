@@ -4,7 +4,7 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="11" style="edgeStyle=none;html=1;entryX=0.463;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="3" target="2" edge="1">
+                <mxCell id="11" style="edgeStyle=none;html=1;entryX=0.463;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="4" target="2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="&lt;font color=&quot;#007fff&quot;&gt;Python Lambda Function&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
@@ -28,7 +28,7 @@
                     <mxGeometry x="60" y="111" width="45" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="" style="group" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="554" y="250" width="100" height="70" as="geometry"/>
+                    <mxGeometry x="358.25" y="280" width="100" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="" style="group;fontStyle=4" parent="13" vertex="1" connectable="0">
                     <mxGeometry x="13.846153846153845" width="76.92307692307692" height="63.48837209302326" as="geometry"/>
@@ -37,7 +37,7 @@
                     <mxGeometry x="15.384615384615385" width="38.093023255813954" height="48.837209302325576" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="&lt;font color=&quot;#007fff&quot;&gt;Auth0 Authentication (JWT)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-                    <mxGeometry x="519" y="298.83720930232556" width="170" height="30" as="geometry"/>
+                    <mxGeometry x="323.25" y="328.83720930232556" width="170" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007FFF;" parent="1" vertex="1">
                     <mxGeometry x="60" y="161" width="50" height="30" as="geometry"/>
