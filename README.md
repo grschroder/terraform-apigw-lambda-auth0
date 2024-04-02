@@ -13,12 +13,12 @@ O lab consiste em criar uma aplicação lambda com authenticação baseada em to
 Criar um arquivo **terraform.tfvars** com as seguintes variáveis:
 
 ```config
-AWS_ACCESS_KEY     
-AWS_SECRET_KEY     
-AWS_REGION         
-AUTH0_DOMAIN       
-AUTH0_CLIENT_ID    
-AUTH0_CLIENT_SECRET
+AWS_ACCESS_KEY      = "<aws-access-key>"   
+AWS_SECRET_KEY      = "<aws-secret-key>"
+AWS_REGION          = "<aws-region>"
+AUTH0_DOMAIN        = "<auth0-domain>"
+AUTH0_CLIENT_ID     = "<client-id>"
+AUTH0_CLIENT_SECRET = "<client-secret>"
 ```
 
 Mais informações sobre como obter as variáveis no auth0 nesse [link](https://registry.terraform.io/providers/auth0/auth0/latest/docs/guides/quickstart).
